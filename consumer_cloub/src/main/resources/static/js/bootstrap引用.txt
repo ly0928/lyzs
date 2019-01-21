@@ -1,0 +1,27 @@
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/jquery-2.1.1.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrap-3.3.7-dist/css/bootstrap.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrap-table/bootstrap-table.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-table/bootstrap-table.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrap-treeview/bootstrap-treeview.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-treeview/bootstrap-treeview.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootStrap-addTabs/bootstrap.addtabs.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootStrap-addTabs/bootstrap.addtabs.min.js"></script>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrap-select-1.13.2/css/bootstrap-select.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-select-1.13.2/js/bootstrap-select.min.js"></script>
+
+<link rel="stylesheet" href="<%=request.getContextPath()%>/js/bootstrapFileInput/css/fileinput.min.css" type="text/css"></link>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrapFileInput/js/fileinput.min.js"></script>
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrapFileInput/js/locales/zh.js"></script>
+
+<script type="text/javascript" src="<%=request.getContextPath() %>/js/bootstrap-bootbox/bootbox.js"></script>
